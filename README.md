@@ -22,7 +22,17 @@
 
 ### Local
 
-TBD
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run application in web-browser:
+
+```bash
+npm run web
+```
 
 ## Links
 
