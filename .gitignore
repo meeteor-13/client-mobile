@@ -348,3 +348,15 @@ gradle-app.setting
 .history
 
 # End of https://www.gitignore.io/api/node,reactnative,visualstudiocode
+
+
+### Expo
+.expo/*
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
